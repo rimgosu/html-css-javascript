@@ -1,4 +1,4 @@
-# javascript 정리
+### Learn Javascript
 ![image](https://github.com/rimgosu/html-css-javascript/assets/120752098/c3f607f0-62fa-472f-b681-1ab9f73d2f3b)
 
 

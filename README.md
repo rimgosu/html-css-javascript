@@ -1,4 +1,6 @@
-# html-css-javascript
+# javascript 정리
+![Uploading image.png…]()
+
 
 ### 유용한 단축키
 - ctrl + k + f             : 코드 정렬
